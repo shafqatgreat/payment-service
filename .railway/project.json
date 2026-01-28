@@ -1,5 +1,5 @@
 {
-  "projectId": "...",
+  "projectId": "amused-perfection",
   "environmentId": "production",
-  "serviceId": "payment-service-id"
+  "serviceId": "payment-service"
 }
